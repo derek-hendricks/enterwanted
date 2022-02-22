@@ -1,21 +1,27 @@
-<img src="https://s3.amazonaws.com/devmountain/readme-logo.png" width="250" align="right">
+Link to test plan: 
+---------------------------------------------------------
+https://dmutah.atlassian.net/browse/DH6DL-33
 
-# Project Summary
+Links to test cases:
+---------------------------------------------------------
+https://dmutah.atlassian.net/browse/DH6DL-34<br/>
+https://dmutah.atlassian.net/browse/DH6DL-35<br/>
+https://dmutah.atlassian.net/browse/DH6DL-36<br/>
 
-## Contributions
+Equivalence Partitions:
+---------------------------------------------------------
+Header: Required, 9-19 characters in length, any allowed
 
-If you see a problem or a typo, please fork, make the necessary changes, and
-create a pull request so we can review your changes and merge them into the
-master repo and branch.
+- 0-8, 9-19, 20-30
 
-## Copyright
+MKE: Required, 2-4 in length, alphabetical or special characters allowed
+- 0-1, 2-4, 5-10
 
-© DevMountain LLC, 2020. Unauthorized use and/or duplication of this material
-without express and written permission from DevMountain, LLC is strictly
-prohibited. Excerpts and links may be used, provided that full and clear credit
-is given to DevMountain with appropriate and specific direction to the original
-content.
+Name: Required, 1-30 characters in length, any allowed
+- 0, 1-30, 31
 
-<p align="center">
-<img src="https://s3.amazonaws.com/devmountain/readme-logo.png" width="250">
-</p>
+Hair: Required, 3-10 characters in length, alphabetical only
+- 0-2, 3-10, 11-30
+
+
+
