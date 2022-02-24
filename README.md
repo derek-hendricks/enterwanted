@@ -1,4 +1,4 @@
-<p>Automated tests using Selenium, Jest, and Typescript for:</p> <a>https://devmountain-qa.github.io/enter-wanted/1.4_Assignment/index.html</a>
+<p>Automated tests using Selenium, Jest, and Typescript for:</p> <a href="https://devmountain-qa.github.io/enter-wanted/1.4_Assignment/index.html">https://devmountain-qa.github.io/enter-wanted/1.4_Assignment/index.html</a>
 
 
 
