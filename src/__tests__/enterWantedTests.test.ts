@@ -11,7 +11,7 @@ const driver: WebDriver = new Builder()
   .withCapabilities(Capabilities.chrome())
   .build();
 
-describe("the todo app", () => {
+describe("Enter Wanted tests", () => {
   const enterWantedPage: EnterWantedPage = new EnterWantedPage(driver);
 
   beforeEach(async () => {
