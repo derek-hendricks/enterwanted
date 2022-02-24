@@ -1,6 +1,6 @@
 <p>Automated tests using Selenium, Jest, and Typescript for:</p> <a>https://devmountain-qa.github.io/enter-wanted/1.4_Assignment/index.html</a>
 
-<img style="margin: 1em 1em 0 2em; border: .3em solid aliceblue; border-radius: .24em; filter: opacity(0.5);" width="70%" src="test.gif"></img>
+
 
 ---------------------------------------------------------
 <br/>
@@ -15,7 +15,9 @@ $ npm i
 ```console
 $ npx jest enterWantedTests
 ```
+<img style="margin: 1em 1em 0 2em; border: .3em solid aliceblue; border-radius: .24em; filter: opacity(0.4);" width="70%" src="test.gif"></img>
 
+<br/>
 <h3>Test plan: </h3>
 
 
