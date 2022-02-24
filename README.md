@@ -1,3 +1,15 @@
+Automated tests using Selenium, Jest, and Typescript for https://devmountain-qa.github.io/enter-wanted/1.4_Assignment/index.html
+
+Installation:<br/>
+```console
+$ npm i
+```
+
+Run tests: <br/>
+```console
+$ npx jest enterWantedTests
+```
+
 Link to test plan: 
 ---------------------------------------------------------
 https://dmutah.atlassian.net/browse/DH6DL-33
@@ -25,4 +37,4 @@ Hair: Required, 3-10 characters in length, alphabetical only
 
 
 
-# enterwanted
+
