@@ -1,4 +1,6 @@
-Automated tests using Selenium, Jest, and Typescript for https://devmountain-qa.github.io/enter-wanted/1.4_Assignment/index.html
+<p>Automated tests using Selenium, Jest, and Typescript for:</p> <a>https://devmountain-qa.github.io/enter-wanted/1.4_Assignment/index.html</a>
+
+<img style="margin: 1em; border: .3em solid aliceblue; border-radius: .24em" width="70%" src="test.gif"></img>
 
 ---------------------------------------------------------
 <br/>
