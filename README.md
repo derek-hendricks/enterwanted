@@ -1,39 +1,40 @@
 Automated tests using Selenium, Jest, and Typescript for https://devmountain-qa.github.io/enter-wanted/1.4_Assignment/index.html
 
-Installation:<br/>
+---------------------------------------------------------
+<br/>
+<h2>Installation:</h2>
+
 ```console
 $ npm i
 ```
 
-Run tests: <br/>
+<h2>Run tests:</h2>
+
 ```console
 $ npx jest enterWantedTests
 ```
 
-Link to test plan: 
----------------------------------------------------------
+<h3>Test plan: </h3>
+
+
 https://dmutah.atlassian.net/browse/DH6DL-33
 
-Links to test cases:
----------------------------------------------------------
+<h3>Test cases:</h3>
+
 https://dmutah.atlassian.net/browse/DH6DL-34<br/>
 https://dmutah.atlassian.net/browse/DH6DL-35<br/>
 https://dmutah.atlassian.net/browse/DH6DL-36<br/>
+<hr/><br/>
 
-Equivalence Partitions:
----------------------------------------------------------
-Header: Required, 9-19 characters in length, any allowed
+<h3>Features Tested:</h3><br/>
 
-- 0-8, 9-19, 20-30
+1. Header: Required, 9-19 characters in length, any allowed. <b>Equivalence Partitions: 0-8, 9-19, 20-30</b>
 
-MKE: Required, 2-4 in length, alphabetical or special characters allowed
-- 0-1, 2-4, 5-10
+2. MKE: Required, 2-4 in length, alphabetical or special characters allowed.<b>Equivalence Partitions: 0-1, 2-4, 5-10</b>
 
-Name: Required, 1-30 characters in length, any allowed
-- 0, 1-30, 31
+3. Name: Required, 1-30 characters in length, any allowed.<b>Equivalence Partitions: 0, 1-30, 31</b>
 
-Hair: Required, 3-10 characters in length, alphabetical only
-- 0-2, 3-10, 11-30
+4. Hair: Required, 3-10 characters in length, alphabetical only. <b>Equivalence Partitions:0-2, 3-10, 11-30</b>
 
 
 
