@@ -26,7 +26,7 @@ https://dmutah.atlassian.net/browse/DH6DL-35<br/>
 https://dmutah.atlassian.net/browse/DH6DL-36<br/>
 <hr/><br/>
 
-<h3>Features Tested:</h3><br/>
+<h3>Features Tested:</h3>
 
 1. Header: Required, 9-19 characters in length, any allowed. <b>Equivalence Partitions: 0-8, 9-19, 20-30</b>
 
