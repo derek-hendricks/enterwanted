@@ -15,7 +15,7 @@ $ npm i
 ```console
 $ npx jest enterWantedTests
 ```
-<img style="margin: 1em 1em 0 2em; border: .5em solid aliceblue; border-radius: .24em; filter: opacity(0.8);" width="70%" src="test.png"></img>
+<img style="margin: 1em 1em 0 2em; border: .5em solid aliceblue; border-radius: .24em;" width="70%" src="test.png"></img>
 <img style="margin: 1em 1em 0 2em; border: .5em solid aliceblue; border-radius: .24em;" src="test.gif"></img>
 
 <br/>
